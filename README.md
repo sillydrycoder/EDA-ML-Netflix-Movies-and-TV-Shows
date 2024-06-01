@@ -2,7 +2,7 @@
 EDA And ML Models Implementation Performed on Kaggle dataset.
 
 
-![Static Badge](https://img.shields.io/badge/Notebook%20Report-View%20Html-red?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=100&labelColor=purple&link=https%3A%2F%2Fshowcase.muhammad-ali.me%2Feda-and-ml-netflix-dataset)
+[![View Notebook Report](https://img.shields.io/badge/View_Report-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://showcase.muhammad-ali.me/eda-and-ml-netflix-dataset/)
 
 
 
