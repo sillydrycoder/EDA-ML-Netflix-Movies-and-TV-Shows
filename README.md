@@ -57,7 +57,7 @@ EDA And ML Models Implementation Performed on Kaggle dataset.
 ## Libraries Uses: 
 
      - Pandas 
-     - Matplotlin 
+     - Matplotlib 
      - Seaborn 
      - SkLearn
 
