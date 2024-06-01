@@ -2,7 +2,7 @@
 EDA And ML Models Implementation Performed on Kaggle dataset.
 
 
-[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/documentation_learn.svg" alt="Get it on SERVICE" height="32" />](https://showcase.muhammad-ali.me/eda-and-ml-netflix-dataset/)
+"Cleck Here for Report"(https://showcase.muhammad-ali.me/eda-and-ml-netflix-dataset/)
 
 
 # Semester Project
