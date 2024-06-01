@@ -1,6 +1,10 @@
 # EDA-ML-Netflix-Movies-and-TV-Shows
 EDA And ML Models Implementation Performed on Kaggle dataset.
 
+
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/documentation_learn.svg" alt="Get it on SERVICE" height="32" />]([https://example.com/...](https://tensor35.github.io/EDA-ML-Netflix-Movies-and-TV-Shows/))
+
+
 # Semester Project
 ### BS Data Science, 4th Semester,
 ### Group 6.
